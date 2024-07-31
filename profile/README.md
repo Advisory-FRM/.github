@@ -1,4 +1,4 @@
-¡Bienvenidos al emocionante mundo del Advisory Riesgo de Crédito de KPMG Chile! 🚀🌟
+¡Bienvenidos al emocionante mundo del Riesgo de Crédito de KPMG Chile! 🚀🌟
 
 En este repositorio, nos sumergimos en las complejidades del riesgo de crédito, explorando estrategias innovadoras y soluciones sólidas para enfrentar los desafíos financieros. Aquí, cada línea de código y cada análisis están diseñados para fortalecer nuestra capacidad de evaluar y mitigar riesgos, asegurando un futuro financiero sólido y confiable.
 
