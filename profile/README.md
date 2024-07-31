@@ -1,4 +1,20 @@
+¡Bienvenidos al emocionante mundo del Advisory Riesgo de Crédito de KPMG Chile! 🚀🌟
 
+En este repositorio, nos sumergimos en las complejidades del riesgo de crédito, explorando estrategias innovadoras y soluciones sólidas para enfrentar los desafíos financieros. Aquí, cada línea de código y cada análisis están diseñados para fortalecer nuestra capacidad de evaluar y mitigar riesgos, asegurando un futuro financiero sólido y confiable.
+
+🔍📊 **¿Qué encontrarás aquí?**
+- Herramientas avanzadas de análisis de riesgo.
+- Modelos predictivos de vanguardia.
+- Colaboración activa y foros de discusión.
+- Sistemas de ingestión de datos de vanguardia.
+
+Juntos, transformamos datos en decisiones inteligentes y construimos un camino hacia la excelencia en gestión de riesgos. ¡Únete a nosotros en esta aventura! 🌐💼
+
+**#KPMGChile** **#RiesgoDeCrédito** **#InnovaciónFinanciera** **#TeamWork**
+
+¡Esperamos tu contribución y conocimiento! 🌟👏
+
+## TUTORIAL DE TRABAJO CON GITHUB
 ### 1. **Crear y gestionar el repositorio central**
 - **Repositorio de organización:** Crear un repositorio en GitHub bajo la organización.
 - **Clonar el repositorio:** Cada miembro del equipo clona el repositorio remoto a su máquina local.
